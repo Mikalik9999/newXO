@@ -16,3 +16,17 @@ button {
 .firstRow, .secondRow, .thirdRow {
     display: flex;
 }
+
+.black {
+    background-image: url("/image/x.png") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.red {
+    background-image: url("/image/zero.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
